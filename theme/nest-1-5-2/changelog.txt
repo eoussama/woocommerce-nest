@@ -1,0 +1,171 @@
+*** Changelog - Nest Ecommerce WordPress Theme ***
+------------------------------------------- 
+/*================================*/
+   Version. 1.5.2 – 12 March 2023
+*=================================*/
+Imporved -- Header Responsive
+Added -- Default Mobile  Enable / Disable Option 
+Added -- Support For Built Mobile Header By Using Elmentor
+Fixed -- Bugs in Js
+/*================================*/
+   Version. 1.5.1 – 03 March 2023
+*=================================*/
+Imporved -- Header and footer builder Area
+Imporved -- Import demo Content Area
+Fixed -- Chaing color for price in product singel page
+Fixed -- Bugs in pagination on blog v1 and product v1 Elementor widgets
+/*================================*/
+   Version. 1.5 – 27 February 2023
+*=================================*/
+Imporved -- Custom Ajax Search Form 
+Imporved -- Styling
+Removed -- Unwanted Templates
+Updated -- Woocommerce Outdated Templates
+Updated -- Translation pot Files in theme and plugin 
+Updated -- Ajax View Cart
+Fixed -- Fibo Search Style
+Added -- Elementor Templates In Packages
+Added --  Ajax Search for Widgets
+Added --  New Product Style for Shop Pages
+Added --  Seperate Layout option for Shop Page
+Added -- Product Load More for Shop pages
+Added -- Product Infinity for Shop pages
+/*================================*/
+   Version. 1.4.1 – 23 January 2023
+*=================================*/
+Added -- fibo search support 
+Fixed -- Redux Option Issues
+Fixed -- Topbar News Carousel
+/*================================*/
+   Version. 1.4 – 21 January 2023
+*=================================*/
+Added -- Auto Update option for theme and nest addons plugin
+Added -- Background Image and color option
+Added -- Support for MultiVendorX
+Added -- Sign Out Button On Mobile Menu
+Added -- 404 Image Change
+Fixed -- Toll free image not changing in header-v1 elementor widgets
+Improved -- Styling
+Updated -- Pot Files for both theme and nest addons plugin
+Updated -- Pot Files for both theme and nest addons plugin
+Updated -- Revolution Silder Plugin
+Removed -- H1 tag from fun fact widgets
+/*================================*/
+   Version. 1.3.3 – 12 January 2023
+*=================================*/
+Removed --  Scrollbar Color
+Fixed --  Bugs in Elementor Widgets
+/*================================*/
+   Version. 1.3.2 – 03 December 2022
+*=================================*/
+Fixed --  Bugs In Popup /  Product Deals v2 Elementor Widgets
+Fixed --  Product Elementor tab widget not working properly
+Updated -- Woocommerce Outdated Templates
+/*================================*/
+   Version. 1.3.1 – 19 December 2022
+*=================================*/
+Fixed -- Translation 2nd language is not worked 
+/*================================*/
+   Version. 1.3 – 15 December 2022
+*=================================*/
+Updated -- Woocommerce Outdated Templates
+Fixed -- Rtl Issues
+Fixed -- Upsells Alignment Issues
+Fixed -- Grid / List not working
+Added -- HubSpot All-In-One Marketing - Forms, Popups, Live Chat (Support)
+/*================================*/
+   Version. 1.2.2 – 10 December 2022
+*=================================*/
+Fixed -- Tanslate Issues
+Fixed -- Bugs In Nest addons Js
+Fixed -- Slider Alignment Issues in Mobile
+Improved -- Styling Issues in product Pages
+/*================================*/
+   Version. 1.2.1 – 5 December 2022
+*=================================*/
+Fixed -- Product Layout Issues
+Fixed -- Bugs In Elementor Widgets
+Improved -- Mobile Responsive
+/*================================*/
+   Version. 1.2 – 28 November 2022
+*=================================*/
+Added -- demo 7 , Demo 8 
+Added -- 4 different style for product Detail
+Added -- Slider Revolution
+Added -- advertisement option for product single
+Added -- video show case option for product single 
+Added -- message box option for product single 
+Added  --filter option for product page 
+Added -- frequently brought together 
+Added -- 3 different product card style for default product page
+Added -- Floating Extra Menu
+Added -- Category Display Option in mobile menu
+Improved -- Mobile responsive
+Fixed -- cart issues 
+Fixed -- Breadcrumb issues 
+Fixed -- styling issues in sidebars
+/*================================*/
+   Version. 1.1.2 – 12 November 2022
+*=================================*/
+Fixed -- Import demo content issues
+Updated -- Woocommerce Template 
+/*================================*/
+   Version. 1.1.1 – 06 November 2022
+*=================================*/
+Fixed -- Mobile Sidemenu Buttons Shows Same text
+Added -- Rtl Option for individual posts
+Fixed -- Slider Alignment Issues
+/*================================*/
+   Version. 1.1 – 02 November 2022
+*=================================*/
+Updated -- Updated some Woocommerce template from 3.8.0 to 7.0.1
+Improved -- Responsive for mobile
+/*================================*/
+   Version. 1.0.4 – 20 October 2022
+*=================================*/
+
+Removed -- Unwanted Options In theme
+Fixed -- Outstock enabling in product Card
+Fixed -- Coupon Tab open / close in checkout page
+Added -- Link For Shop Banner Widgets
+Improved -- Quick View Close Transition
+Fixed -- Increase / Decrease Quantity 
+
+/*================================*/
+   Version. 1.0.3 – 13 October 2022
+*=================================*/
+
+Fixed -- Bugs In Breadcrumbs
+Fixed -- Bugs In Product Query Filter 
+Improved-- Css For Product Category Sidebar Widgets
+Added -- Color Options All the Elementor Widgets
+
+/*================================*/
+   Version. 1.0.2 – 11 October 2022
+*=================================*/
+
+Fixed -- Bugs In Theme Js
+Added -- Add Color Changing Options
+
+/*================================*/
+   Version. 1.0.2 – 7 October 2022
+*=================================*/
+
+Fixed -- Product Tab Issues
+Added -- 03 New Home Pages
+Added -- 5+ Elementor Widgets
+Fixed -- View Cart Ajax in Product Single
+Improved -- Menu Dropdown Css
+Updated -- Import Demo Content
+Theme Version : 1.0.1
+Plugin Version : 1.0.1
+
+/*================================*/
+   Version. 1.0 – 6 October 2022
+*=================================*/
+
+Launched -- First Release
+
+
+
+
